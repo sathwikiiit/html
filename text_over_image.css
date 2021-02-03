@@ -1,0 +1,33 @@
+{ padding : 0;
+  margin: 0;
+}
+
+body {
+      width: 123.5%;
+      height: 95%;
+      overflow: hidden;
+      background-color: #c4a1a2;
+}
+.content-wrapper{
+width: 80%;
+}
+.content-wrapper img{
+width: 100%;
+
+}
+.text-wrapper{
+ width: 100%;
+ position: relative;
+ margin-top: -60%;
+}
+.gcse-search{ 
+ width: 100%;
+ position: relative;
+ margin-top: -20%;
+}
+.text-wrapper h1{
+	text-align: center;
+	color: #C0C0C080;
+	font-size: 10vw;
+	
+}
